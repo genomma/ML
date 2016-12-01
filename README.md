@@ -4,7 +4,7 @@ En este laboratorio utilizaremos la suite de aprendizaje automatizado de Azure p
 ## Paso 1 - Ingresar a la suite de Aprendizaje Automatizado
 1. Ingresar a **http://studio.azureml.net/**
 1. Logearse con una cuenta de hotmail o outlook
-1. Asegurarse de tener seleccionado el "Free-Workspace" <br/>![freews](img/01.jpg)
+1. Asegurarse de tener seleccionado el "Free-Workspace" <br/>![freews](01.jpg)
 ## Paso 2 - Crear el experimento
 1. Hacer click en el botón "New" ubicado en la parte inferior derecha. <br/>![new](img/02.jpg)
 1. Seleccionar "Blank Experiment".
